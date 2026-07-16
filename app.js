@@ -32,7 +32,7 @@ let computerHand = [];
 let entroAlCiclo = false;
 
 // GAME
-const iniciarJuego = async () => {
+const startTheGame = async () => {
     const rl = readline.createInterface({ input, output });
 
     try {
@@ -135,4 +135,4 @@ const iniciarJuego = async () => {
     }
 };
 
-iniciarJuego();
+startTheGame();
