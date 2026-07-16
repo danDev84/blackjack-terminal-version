@@ -1,0 +1,7 @@
+borradores
+node_modules/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/
+npm-debug.log*
