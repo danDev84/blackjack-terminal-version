@@ -23,8 +23,8 @@ A simple Blackjack game that runs entirely in your terminal, built with plain No
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd blackjack
+git clone https://github.com/danDev84/blackjack-terminal-version.git
+cd blackjack-terminal-version
 ```
 
 No `npm install` is needed — the project has no dependencies.
