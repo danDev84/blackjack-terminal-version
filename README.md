@@ -1,4 +1,4 @@
-Terminal Blackjack
+# Terminal Blackjack
 
 A simple Blackjack game that runs entirely in your terminal, built with plain Node.js (ES Modules) and no external dependencies. Play a hand against the computer dealer (the *croupier*), choose to **Hit** or **Stand**, and see who gets closest to 21 without going over.
 
